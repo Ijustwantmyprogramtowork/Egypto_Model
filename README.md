@@ -1,5 +1,5 @@
 # How I did computer vision on 3000 year old papyrus
-## Hello eveyrone!
+## Hello everyone!
 If you are interested on the preprocessing of the data, I did another repo called EGYPTO_Preprocessing.
 
 ### __Now, for the model:__
