@@ -1,4 +1,4 @@
-# How I did computer vision on 3000 year old papyrus
+# How I did computer vision on 3000 years old papyrus
 ## Hello everyone!
 If you are interested on the preprocessing of the data, I did another repo called EGYPTO_Preprocessing.
 
